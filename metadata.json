@@ -1,0 +1,5 @@
+{
+  "name": "Sticker Customizer AI",
+  "description": "An advanced sticker editor that allows users to upload images, remove backgrounds, create portraits using AI, add text, and customize sticker properties like shape, material, and size.",
+  "requestFramePermissions": []
+}
